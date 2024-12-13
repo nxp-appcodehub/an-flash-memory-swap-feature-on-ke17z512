@@ -1,0 +1,29 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="an-flash-memory-swap-feature-on-ke17z512" type="app_note" format="projectfile" versionSchema="1.0.0" name="flash-memory-swap-feature-on-ke17z512">
+    <display_title>
+        This application describes how to use flash swap feature on KE17Z512 series.
+    </display_title>
+    <overview>
+        <![CDATA[The flash swap function, which is accessible on certain Kinetis microcontroller components, serves as a
+strong tool for dependable software enhancements. This document discusses how to employ the swap feature
+effectively. Frequently asked queries are responded to, and a practical use case is illustrated.
+This document is aimed at system coders who are building applications that can apply the flash swap feature.
+To obtain more critical details about the flash swap, consult the user manual of the device mentioned in this
+document.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mdk"></toolchain>
+    </toolchains>
+    <families>
+        <family name="kinetis"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-KE17Z512"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="flash"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="industrial"></category>
+        <category name="memory"></category>
+    </categories>
+</data:item>

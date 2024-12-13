@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+Package:                   an-flash-memory-swap-feature-on-ke17z512
+
+Version:                   1.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE.txt
+Description and comments:  This application describes how to use flash swap feature on KE17Z512 series.
+Release Location:          https://github.com/nxp-appcodehub/an-flash-memory-swap-feature-on-ke17z512
+Origin:                    NXP (BSD-3-Clause)
+                           ARM CMSIS v5.8.0 (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+
